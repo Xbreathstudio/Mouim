@@ -12,9 +12,9 @@ Built from scratch with 0 budget, Mouim evolved through multiple redesigns and r
 
 ## 📸 Screenshots
 
-![Home](https://your-image-link.com/home.png)
-![Chat](https://your-image-link.com/chat.png)
-![Profile](https://your-image-link.com/profile.png)
+![Home](images/home.png)
+![Chat](images/chat.png)
+![Profile](images/profile.png)
 
 ## 🚀 Features
 
